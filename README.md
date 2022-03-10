@@ -1,6 +1,6 @@
 Hi there!
 
-I love Python, but if you wish, I can write in any language.  
+I love Python, but if necessary, I can code in any language.  
 Enough experience in web development.  
 Now I am diving into the rich world of AI: machine learning, deep learning, computer vision. 
 
